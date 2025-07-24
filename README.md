@@ -6,9 +6,9 @@
 
 
 ### About me
-- 🔭 Software Development and Cybersecurity Enthusiast
+- 🔭 Software Development and AI student
 - 🎓 Computer Science student at PUCPR [6/8]
-- 🖥️ Developing something as we "speak
+- 🖥️ Developing something as we "speak"
 
 ### General Stats
 <div style="display: flex; align-items: center; justify-content: center;">
@@ -17,6 +17,6 @@
   <source srcset="https://github-readme-stats.vercel.app/api?username=KurlenMurlen&show_icons=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurlenMurlen&layout=compact&theme=tokyonight" />
 </picture>
-  <img height= "180cm" width="380cm"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduContin&layout=compact&theme=tokyonight"/>
+  <img height= "180cm" width="380cm"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurlenMurlen&layout=compact&theme=tokyonight"/>
 </div>
 
