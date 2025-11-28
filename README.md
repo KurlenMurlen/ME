@@ -63,13 +63,4 @@
 <br />
 <br />
 
-<div align="center">
-  <h3>CONTRIBUTIONS</h3>
-  
-  <a href="https://github.com/KurlenMurlen">
-    <img src="https://github-readme-stats.vercel.app/api?username=KurlenMurlen&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=333333&icon_color=333333" height="150" alt="stats" />
-  </a>
-  <a href="https://github.com/KurlenMurlen">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurlenMurlen&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=333333&langs_count=6" height="150" alt="languages" />
-  </a>
-</div>
+
