@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Machine+Learning+Specialist;AI+Trainer+%40+Invisible+Technologies;Full+Stack+Developer;Computer+Science+Student" alt="Typing SVG" />
   
   <p align="center">
-    <b>Building the bridge between Low-level Performance and High-level AI Intelligence.</b>
+    <b>Building scalable AI Systems and Intelligent Architectures.</b>
   </p>
 </div>
 
@@ -12,10 +12,10 @@
 
 ### About Me
 
-- Computer Science Student at PUCPR [6/8]
-- Currently working as **AI Trainer at Invisible Technologies (Google DeepMind Project)**
-- Software Developer at **CITS**, focusing on RAG Architectures and Automation
-- Interests: Large Language Models, Computer Vision, and Kernel-level Optimization (Rust/C)
+- 🎓 Computer Science Student at PUCPR [6/8]
+- 🤖 Currently working as **AI Trainer at Invisible Technologies (Google DeepMind Project)**
+- 💼 Software Developer at **CITS**, focusing on RAG Architectures and Automation
+- 🧠 Interests: Large Language Models, Generative AI, Computer Vision, and Cloud Architecture
 
 <br />
 
@@ -39,7 +39,6 @@
 <summary><b>Languages</b></summary>
 <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -78,7 +77,7 @@
 
 ### Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KurlenMurlen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurlenMurlen&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" height="160" alt="languages graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KurlenMurlen&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurlenMurlen&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+</p>
