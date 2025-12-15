@@ -16,7 +16,7 @@
   
   **PROFILE SUMMARY**
   
-  Computer Science Student at PUCPR [6/8]
+  Computer Science Student at PUCPR [7/8]
   <br>
   AI Trainer at Invisible Technologies (Google DeepMind Project)
   <br>
